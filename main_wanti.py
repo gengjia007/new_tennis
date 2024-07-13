@@ -8,7 +8,7 @@ from recognize import Recognize
 
 if __name__ == "__main__":  # 保证窗口宽度559
     time.sleep(1)
-    lighting_time = "09:48"
+    lighting_time = "12:00"
     print("waiting {} to run".format(lighting_time))
 
     mc = MouseController()
